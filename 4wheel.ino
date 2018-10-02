@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "26ab90fc098e42008dd5878c7977e5e8";
+char auth[] = "API Key";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
