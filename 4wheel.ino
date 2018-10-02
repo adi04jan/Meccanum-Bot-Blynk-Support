@@ -6,8 +6,8 @@ char auth[] = "26ab90fc098e42008dd5878c7977e5e8";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "SPARTA>>>>";
-char pass[] = "ADITYA8269975125";
+char ssid[] = "SSID";
+char pass[] = "PASSWORD";
 int x = 0;
 int y = 0;
 int a = 0;
